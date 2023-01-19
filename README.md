@@ -36,7 +36,7 @@ Please test the 4 test traces under the 12 different configurations (Block size 
 Mapping – direct, 4-way set associative, and fully associative
 
 # To Compile:
-  1) Open cmd in same folder as cache.c
+  	1) Open cmd in same folder as cache.c
 	2) gcc cache.c
 	3) executable file a.exe will be created in folder same as cache.c
 # To Run:
