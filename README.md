@@ -45,7 +45,8 @@ Mapping – direct, 4-way set associative, and fully associative
  	1) ./a or ./a.exe
 	2) Make Sure that all the 4 trace files are in the same folder as the a.exe as I have hardcoded the files names in code.
 or
+
  Windows cmd:
-   	1)open windows cmd in same folder as a.exe executable file
- 	1) a.exe
-	2) Make Sure that all the 4 trace files are in the same folder as the a.exe as I have hardcoded the files names in code.
+	1)open windows cmd in same folder as a.exe executable file
+	2) a.exe
+	3) Make Sure that all the 4 trace files are in the same folder as the a.exe as I have hardcoded the files names in code.
